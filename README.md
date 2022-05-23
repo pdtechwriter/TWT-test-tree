@@ -15,7 +15,7 @@ First, let's go over a brief history -- in 1994, Swarthmore College student Just
 
 In 1997, **Jorn Barger**, blogger for Robot Wisdom, coined the term "weblog", which was meant to describe his process for "logging the web" as he surfed the internet. The term "weblog" was shortened to "blog" in 1999, by programmer Peter Merholz.
 
-[Jorn's blogging](#what-is-a-blog-&-why-should-you-create-one) technique is as follows:
+[Jorn's blogging](#what-is-a-blog-post) technique is as follows:
 
 1. Choose your target audience.
 1. Brainstorm content ideas frequently based on your market segment.
