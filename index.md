@@ -18,6 +18,8 @@ William Shakespeare would have lived with his family in their house on Henley St
 
 **Note**: This page was written by {{page.person}}.
 
+![Shakespeare sketch image] (C:\Priyanka\TWT\TWT-test-tree\_images\shakespeare.jpg)
+
 ## Shakespeare in London
 
 Shakespeare's career jump-started in London, but when did he go there? We know Shakespeare's twins were baptised in 1585, and that by 1592 his reputation was established in London, but the intervening years are considered a mystery. Scholars generally refer to these years as ‘The Lost Years’.
