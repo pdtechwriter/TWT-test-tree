@@ -1,5 +1,5 @@
 ---
-name: Priyanka
+person: Priyanka
 ---
 
 
@@ -16,7 +16,7 @@ Records survive relating to William Shakespeare’s family that offer an underst
 
 William Shakespeare would have lived with his family in their house on Henley Street until he turned eighteen. When he was eighteen, Shakespeare married Anne Hathaway, who was twenty-six. It was a rushed marriage because Anne was already pregnant at the time of the ceremony. Together they had three children. Their first daughter, Susanna, was born six months after the wedding and was later followed by twins Hamnet and Judith. Hamnet died when he was just 11 years old.
 
-Note: This page was written by {{page.name}}.
+**Note**: This page was written by {{page.person}}.
 
 ## Shakespeare in London
 
