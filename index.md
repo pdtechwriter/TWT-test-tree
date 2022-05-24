@@ -36,4 +36,3 @@ He remained with the company for the rest of his career, during which time it ev
 
 Altogether Shakespeare's works include 38 plays, 2 narrative poems, 154 sonnets, and a variety of other poems. No original manuscripts of Shakespeare's plays are known to exist today. It is actually thanks to a group of actors from Shakespeare's company that we have about half of the plays at all. They collected them for publication after Shakespeare died, preserving the plays. These writings were brought together in what is known as the First Folio ('Folio' refers to the size of the paper used). It contained 36 of his plays, but none of his poetry.
 
-{% include footer.html %}
