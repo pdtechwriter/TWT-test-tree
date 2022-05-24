@@ -1,6 +1,7 @@
 ---
 person: Priyanka
 year: 1564 AD
+layout: template_file.html
 ---
 
 
