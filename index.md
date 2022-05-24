@@ -1,11 +1,12 @@
 ---
 person: Priyanka
+year: 1564 AD
 ---
 
 
 # An Introduction
 
-William Shakespeare was a renowned English poet, playwright, and actor born in 1564 in Stratford-upon-Avon. His birthday is most commonly celebrated on 23 April (see When was Shakespeare born), which is also believed to be the date he died in 1616.
+William Shakespeare was a renowned English poet, playwright, and actor born in {{page.year}} in Stratford-upon-Avon. His birthday is most commonly celebrated on 23 April (see When was Shakespeare born), which is also believed to be the date he died in 1616.
 
 
 Shakespeare was a prolific writer during the Elizabethan and Jacobean ages of British theatre (sometimes called the English Renaissance or the Early Modern Period). Shakespeare’s plays are perhaps his most enduring legacy, but they are not all he wrote. Shakespeare’s poems also remain popular to this day.
@@ -18,7 +19,7 @@ William Shakespeare would have lived with his family in their house on Henley St
 
 **Note**: This page was written by {{page.person}}.
 
-![Shakespeare's picture](\_images\shakespeare.jpg" "Shakespeare's picture")
+![Shakespeare's picture]("\TWT-test-tree\shakespeare.jpg" "Shakespeare's picture")
 
 ## Shakespeare in London
 
