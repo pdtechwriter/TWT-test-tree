@@ -24,6 +24,7 @@ Resource groups provide a way for you to easily manage access to multiple resour
 1. Go to **Manage** > **Account** > **Account resources** > **Resource groups** in the IBM Cloud console.
 1. Click **Create**.
 1. Enter a name for your resource group, and click **Add**.
+
 See **What makes a good resource group strategy?** for details about how to optimally organize resources in your resource groups.
 
 ## Set up access
