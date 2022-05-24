@@ -18,7 +18,7 @@ William Shakespeare would have lived with his family in their house on Henley St
 
 **Note**: This page was written by {{page.person}}.
 
-![Shakespeare sketch image] ("../_images/shakespeare.jpg "Shakespeare Image!")
+![Shakespeare sketch image] (https://images.theconversation.com/files/329522/original/file-20200421-82672-10gj7rb.jpg?ixlib=rb-1.1.0&rect=0%2C15%2C2600%2C2576&q=45&auto=format&w=926&fit=clip)
 
 ## Shakespeare in London
 
