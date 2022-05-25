@@ -9,5 +9,5 @@ Our mission is to make the finest theatre productions of Shakespeare's plays, as
 ## Titanic's Passenger Details
 
 {% for item in site.data.titanic %} 
-- {{item.name}}, {{item.age}}
+- {{item.Name}}, {{item.Age}}
 {% endfor %}
